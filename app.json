@@ -1,0 +1,40 @@
+{
+    "name": "Go4Link_Bot",
+    "description": "Make short link by using Go4Link API key",
+    "keywords": [
+        "telegram",
+        "gplink"
+    ],
+    "website": "https://github.com/CyberBoyAyush/Go4LinkBot",
+    "repository": "https://github.com/CyberBoyAyush/Go4LinkBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "API_KEY": {
+            "description": "Get API key from https://go4link.in/member/tools/api",
+            "required": false
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
