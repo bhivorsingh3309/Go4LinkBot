@@ -1,5 +1,5 @@
 # Go4Link Bot 🔥
-Make short link by using [Go4Link](https://go4link.in/) API key
+Make Short Link By Using [Go4Link](https://go4link.in/) API Key
 
 ### Installation
 
