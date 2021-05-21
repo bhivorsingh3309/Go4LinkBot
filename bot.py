@@ -33,7 +33,7 @@ async def link_handler(bot, message):
 
 
 async def get_shortlink(link):
-    url = ' https://go4link.in/api'
+    url = 'https://go4link.in/api'
     params = {'api': API_KEY, 'url': link}
 
     async with aiohttp.ClientSession() as session:
