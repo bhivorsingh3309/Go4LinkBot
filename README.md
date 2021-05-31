@@ -5,7 +5,7 @@ Make Short Link By Using [Go4Link](https://go4link.in/) API Key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/CyberBoyAyush/Go4LinkBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 
 ##### Required Variables
 
