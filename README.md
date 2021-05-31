@@ -1,4 +1,4 @@
-# VIzp Uploads Bot 🔥
+# Vip Uploads Bot 🔥
 Make Short Link By Using [Go4Link](https://go4link.in/) API Key
 
 ### Installation
