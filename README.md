@@ -13,7 +13,7 @@ Make Short Link By Using [Go4Link](https://go4link.in/) API Key
 
 * `API_ID`: Get this value from [telgram.org](https://my.telegram.org/apps) Or By Telegram Bot [TgApiextractorBot](https://telegram.dog/TgApiextractorBot)
 * `API_HASH`: Get this value from [telgram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [Vipuploads](https://Vipuploads.com) account then get this value from [Go4Link API](https://go4link.in/member/tools/api)
+* `API_KEY`: Create [Vipuploads](https://Vipuploads.com) 
 
 ##### Credit
 - [Mahesh](https://github.com/Mahesh0253) Bhai For His GPLinks Repo
